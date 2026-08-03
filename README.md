@@ -1,7 +1,7 @@
 <p align="center">
   <img src="giphy (1).gif" width="500"/><br>
 <p align="center">
-  <a href="https://detectivemisora.straw.page/">ʂƚɾαɯ</a> ⑅ <a href="https://rentry.co/detectivemisora">ɾҽɳƚɾყ</a> ⑅ <a href="https://detectivemisora.atabook.org/">αƚα</a><br><br>
+ <a href="https://detectivemisora.atabook.org/">αƚα</a><br><br>
   <img src="tumblr.webp" width="130">
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
