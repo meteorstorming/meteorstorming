@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="giphy (1).gif" width="500"/><br>
+  <img src="cipher-hsr-hsr-meme.gif" width="500"/><br>
 <p align="center">
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
