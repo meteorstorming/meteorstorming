@@ -3,6 +3,6 @@
 <p align="center">
   he's telling you guys to click these links 🠗
 <p align="center">
-<a href="https://detectivemisora.atabook.org/">αƚα</a> ⑅ <a href="https://fluffle.cc/meteorstorm">.cc</a><br>
+<a href="https://detectivemisora.atabook.org/">αƚα</a> ⑅ <a href="https://fluffle.cc/meteorstorm">.cc</a> ⑅ <a href="https://guns.lol/detectivemisora">guns.lol</a> <br>
 </p>
 </p>
