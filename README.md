@@ -3,5 +3,6 @@
 <p align="center">
 <p align="center">
 <a href="https://meteorstorm.atabook.org/">αƚα</a> ⑅ <a href="https://guns.lol/detectivemisora">guns</a> <br>
+rentry is a wip
 </p>
 </p>
