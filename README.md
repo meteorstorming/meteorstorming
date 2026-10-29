@@ -4,5 +4,5 @@
 <p align="center">
 <a href="https://meteorstorm.atabook.org/">αƚα</a> ⑅ <a href="https://guns.lol/detectivemisora">guns</a> <br>
 rentry is a wip
- <img SRC="tumblr_714b6caf54dd9e38536638d20018db7e_ae95dbdb_75.webp" width="15"</p>
+ <img SRC="tumblr_b39a0dda716fb2cd4470cb74fd482fb3_fc496302_75.webp" width="15"</p>
 </p>
