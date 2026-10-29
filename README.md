@@ -3,5 +3,9 @@
 <p align="center">
 <p align="center">
 <a href="https://meteorstorm.atabook.org/">αƚα</a> ⑅ <a href="https://guns.lol/detectivemisora">guns</a> <br>
-rentry soon <img SRC="tumblr_cdff2ae0cdadb2b0fcc5eb00e965ebc0_1560d0e4_75.webp" width="22"</p>
+rentry is a wip <img SRC="tumblr_cdff2ae0cdadb2b0fcc5eb00e965ebc0_1560d0e4_75.webp" width="22"</p>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d4oylex2yiuo6b67jfykie457e&cover_image=false&theme=default&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
+  </a>
 </p>
