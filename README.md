@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="one-piece-pixel.gif" width="250"/><br>
+  <img src="69cd01c65cdde3e2b5d1d813df82986c.gif" width="250"/><br>
 <p align="center">
 <p align="center">
 <a href="https://meteorstorm.atabook.org/">αƚα</a> ⑅ <a href="https://guns.lol/detectivemisora">guns</a> ⑅ <a href="https://fluffle.cc/meteorstorm">.cc</a> 
